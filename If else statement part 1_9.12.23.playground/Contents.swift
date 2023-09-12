@@ -33,3 +33,30 @@ else
 {
     print("I'm not so sure about coding in Swift")
 }
+
+var Toyota = true
+
+if Toyota == false
+{
+    print("This should work")
+}
+
+else
+{
+    print("This is the worst car brand")
+}
+
+var Nissan = true
+
+
+if Nissan == Toyota
+{
+    print("The best car brand ever")
+}
+
+else
+{
+    print("The worst car brand ever")
+}
+
+
